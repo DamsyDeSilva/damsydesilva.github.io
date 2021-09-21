@@ -18,11 +18,11 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Montserrat', sans-serif;
   font-weight: 700;
-  color: #778492;
+  color: rgb(87, 87, 87);
 }
 
 a {
-  color: #3AAA64;
+  color: #686767;
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -ms-transition: all 0.4s ease-in-out;
@@ -31,8 +31,8 @@ a {
 
 a:hover {
   text-decoration: underline;
-  color: #5f6b77;
-  color: #2d844e;
+  /* color: #686767; */
+  color: #09be4e;
 }
 
 a:focus {
@@ -125,7 +125,7 @@ a.dotted-link:hover {
 .header {
   padding: 30px 0;
   background: #f5f5f5;
-  border-top: 10px solid #778492;
+  /* border-top: 10px solid #778492; */
 }
 
 .header .btn {
@@ -138,14 +138,14 @@ a.dotted-link:hover {
 }
 
 .header .profile-content .name {
-  color: #49515a;
+  color: #154d38;
   font-size: 38px;
   margin-bottom: 5px;
   margin-top: 30px;
 }
 
 .header .profile-content .desc {
-  color: #778492;
+  color: #3f975a;
   font-family: "Lato", arial, sans-serif;
   font-weight: 400;
   font-size: 24px;
@@ -197,12 +197,13 @@ a.dotted-link:hover {
 .section .heading {
   margin-top: 0;
   margin-bottom: 10px;
-  color: #545e69;
-  font-size: 24px;
+  color: #5eac8f;
+  font-size: 22px;
 }
 
 .section .content .more-link .svg-inline--fa {
   margin-right: 5px;
+  margin-top: 1em;
   font-size: 14px;
   position: relative;
   top: -2px;
@@ -343,7 +344,7 @@ a.dotted-link:hover {
 
 /* Work Section */
 .experience .item {
-  margin-bottom: 30px;
+  margin-bottom: 20px;
 }
 
 .experience .item .title {
@@ -351,6 +352,26 @@ a.dotted-link:hover {
   margin-top: 0;
   margin-bottom: 5px;
   line-height: 1.5;
+}
+
+.experience .item .work {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: rgb(59, 59, 59);
+  font-weight: 600;
+  /* padding-left: 25px; */
+}
+.experience .item .work .details {
+  font-family: 'Montserrat', sans-serif;
+  color: #4b4a4a;
+  font-weight: 500;
+  font-size: 12px;
+  /* padding-left: 30px; */
+}
+.experience .item .work .year {
+  color: #7c7c7c;
+  font-weight: 500;
+  font-size: 13px;
 }
 
 .experience .item .title .place {
@@ -369,6 +390,11 @@ a.dotted-link:hover {
 .experience .item .title .year {
   color: #999;
   font-weight: normal;
+}
+
+.experience .svg-inline--fa {
+  margin-right: 4px;
+  color: #5dc797;
 }
 
 /* Git section */
@@ -400,7 +426,7 @@ a.dotted-link:hover {
 /* Info Section */
 .info .svg-inline--fa {
   margin-right: 15px;
-  color: #ccd1d6;
+  color: #5dc797;
 }
 
 .info .svg-inline--fa.fa-envelope-o {
@@ -425,11 +451,12 @@ a.dotted-link:hover {
 }
 
 .skills .skillset .item {
-  margin-bottom: 30px;
+  margin-bottom: 15px;
+  font-size: 13px;
 }
 
 .skills .skillset .level-title {
-  font-size: 16px;
+  font-size: 15px;
   position: relative;
   margin-top: 0;
   margin-bottom: 10;
@@ -512,42 +539,72 @@ a.dotted-link:hover {
 }
 
 .education .item .title {
-  font-size: 16px;
+  font-size: 17px;
   margin-top: 0;
 }
 
-.education .item .university {
-  font-family: "Lato", arial, sans-serif;
-  font-size: 13px;
-  color: #999;
+.education .item .degree {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 16px;
+  color: rgb(59, 59, 59);
   font-weight: 600;
-  padding-left: 25px;
+  /* padding-left: 25px; */
 }
-
-.education .item .university .year {
-  color: #b0b7bf;
+.education .item .degree .details {
+  font-family: 'Montserrat', sans-serif;
+  color: #4b4a4a;
   font-weight: 500;
+  font-size: 12px;
+  /* padding-left: 30px; */
 }
 
-/* Language Section */
+.education .item .degree .year {
+  color: #7c7c7c;
+  font-weight: 500;
+  font-size: 13px;
+}
+
+.education .svg-inline--fa {
+  margin-right: 4px;
+  color: #5dc797;
+}
+
+/* certification Section */
 .certification .item {
-  margin-bottom: 15px;
+  margin-bottom: 30px;
+  /* color: #778492; */
 }
-
-.certification .item .title {
-  color: #778492;
-}
-
-.certification .item .level {
-  color: #999;
-}
-
 .certification .item:last-child {
   margin-bottom: 0;
 }
+.certification .item .title {
+  font-size: 17px;
+  margin-top: 0;
+}
 
-.certification .item .svg-inline--fa {
-  color: #79d19a;
+.certification .item .course {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  color: rgb(59, 59, 59);
+  font-weight: 600;
+  margin-bottom: 30px;
+}
+.certification .item .course .details {
+  font-family: 'Montserrat', sans-serif;
+  color: #3a3939;
+  font-weight: 500;
+  font-size: 13px;
+  /* padding-left: 30px; */
+}
+.certification .item .course .year {
+  color: #7c7c7c;
+  font-weight: 500;
+  font-size: 13px;
+}
+
+.certification .svg-inline--fa {
+  margin-right: 10px;
+  color: #44a378;
 }
 
 /* Blog Section */
