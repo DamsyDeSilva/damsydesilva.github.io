@@ -4,8 +4,10 @@ Hello! I'm a passionate software engineer with research interests in Machine Lea
 
 ---
 
-## Education  
-- BSc Engineering (Hons) | Faculty of Engineering | University of Peradeniya, Sri Lanka | Specialization: Computer Engineering (_Feb 2023_) 
+## Education
+
+BSc Engineering (Hons) | Faculty of Engineering | University of Peradeniya, Sri Lanka | Specialization: Computer Engineering (_Feb 2023_)
+  
 ---
 
 ## Work Experience  
@@ -75,19 +77,19 @@ Hello! I'm a passionate software engineer with research interests in Machine Lea
 
 ---
 
-## **Competitions & Awards**  
-- **Arimac Future Cast Ideathon 2021** | IoT Category – Finalist  
-- **HackStat 2.0** | University of Colombo – 2nd Runner-up (_2019_)  
-- **DATATHON | SLIIT CODEFEST** – Merit Award (_2019_)  
-- **IEEE SS12 ASIA 2018** | Innovative Pilot Competition – Runners-up  
+## Competitions & Awards  
+- **Arimac Future Cast Ideathon 2021** : IoT Category – Finalist  
+- **HackStat 2.0** : University of Colombo – 2nd Runner-up (_2019_)  
+- **DATATHON : SLIIT CODEFEST** – Merit Award (_2019_)  
+- **IEEE SS12 ASIA 2018** : Innovative Pilot Competition – Runners-up  
 - **IEEE Region 10 Humanitarian Technology Conference 2018** – Runners-up  
-- **Most Outstanding Student Award** | Post A/L School Prize Giving (_2017_)  
+- **Most Outstanding Student Award** : Post A/L School Prize Giving (_2017_)  
 
 ---
 
-## **Extracurricular Activities**  
-- **ACES Committee Member** | University of Peradeniya (_2022_)  
-- **School Deputy Head Prefect** (_2016_)  
+## Extracurricular Activities 
+- **ACES Committee Member** | University of Peradeniya (_2022_) 
+- **School Deputy Head Prefect** (_2016_)
 - **School Chess Team:** Captain (U-16, U-14), Team Member (_2005 – 2015_)   
 - **School Badminton Team Member** (_2004 – 2014_)  
 - **School Math Quiz Team Member** (_2008 – 2015_)  
