@@ -1,6 +1,6 @@
 # Welcome to My Portfolio 🎓💻
 
-Hello! I'm a passionate software engineer with research interests in Machine Learning, Affective Computing, AI in Healthcare, Human-Computer Interaction, and Software Engineering. Explore my work, projects, and accomplishments below.
+Hello! I'm a passionate software engineer with interests in Artificial Intelligence and Software Engineering. Explore projects, experiences, and a glimpse into my work.
 
 ---
 
