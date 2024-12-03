@@ -6,7 +6,7 @@ Hello! I'm a passionate software engineer with research interests in Machine Lea
 
 ## Education
 
-BSc Engineering (Hons) | Faculty of Engineering | University of Peradeniya, Sri Lanka | Specialization: Computer Engineering (_Feb 2023_)
+- **BSc Engineering (Hons)** | Faculty of Engineering | University of Peradeniya, Sri Lanka | Specialization: Computer Engineering (_Feb 2023_)
   
 ---
 
@@ -88,7 +88,7 @@ BSc Engineering (Hons) | Faculty of Engineering | University of Peradeniya, Sri 
 ---
 
 ## Extracurricular Activities 
-- **ACES Committee Member** | University of Peradeniya (_2022_) 
+- **ACES Committee Member** : University of Peradeniya (_2022_)
 - **School Deputy Head Prefect** (_2016_)
 - **School Chess Team:** Captain (U-16, U-14), Team Member (_2005 – 2015_)   
 - **School Badminton Team Member** (_2004 – 2014_)  
