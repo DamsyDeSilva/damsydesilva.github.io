@@ -5,8 +5,9 @@ Hello! I'm a passionate software engineer with research interests in Machine Lea
 ---
 
 ## Education
-
-- **BSc Engineering (Hons)** | Faculty of Engineering | University of Peradeniya, Sri Lanka | Specialization: Computer Engineering (_Feb 2023_)
+- **BSc Engineering (Hons)**  
+  Faculty of Engineering, University of Peradeniya, Sri Lanka  
+  Specialization: Computer Engineering (_Feb 2023_)
   
 ---
 
