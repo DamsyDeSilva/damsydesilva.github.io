@@ -13,13 +13,19 @@ Hello! I'm a passionate software engineer with interests in Artificial Intellige
 
 ## Work Experience  
 
-**Software Engineer** | CodeGen International (Pvt) Ltd, Sri Lanka  (_Mar 2023 – Present_)  
+**Senior Software Engineer** | CodeGen International (Pvt) Ltd, Sri Lanka  (_May 2025 – Present_)  
+- Implementing a multi-agent AI orchestration framework integrating Large Language Models (LLMs) to provide intelligent, context-aware coding assistance for developers. 
+- Designing and developing trace-based code analysis tools, including Java Agent-based tracing libraries to capture code execution flows and map business logic for enhanced developer productivity.   
+- Building and deploying scalable backend services with FastAPI, MongoDB, and Redis, enabling high-performance data processing and seamless integration with AI-powered developer tools.  
+- **Skills:** Python, Java, FastAPI, MongoDB, Redis, LLMs, Multi-Agent Systems, Java Agents, Bytecode Manipulation, Trace-based Analysis, REST APIs, Microservices, Docker, Prompt Engineering, Git, Agile/Scrum 
+
+**Software Engineer** | CodeGen International (Pvt) Ltd, Sri Lanka  (_Mar 2023 – April 2025_)  
 - Developed cross-selling product recommendations for a B2B travel booking platform using production data.  
 - Contributed to an R&D tool to automate data uploads from accommodation contracts, enhancing efficiency.  
 - Developed a travel recommendation system to enhance user experience and itinerary suggestions.  
 - Applied coding best practices and OOP techniques across various projects in the travel domain.  
 - Ensured timely delivery of features by collaborating within cross-functional teams using Agile principles.  
-- **Skills:** Java, Oracle SQL, AngularJS, Flutter, ChatGPT API, Prompt Engineering, Caching, Kubernetes, Git, Agile  
+- **Skills:** Java, Oracle SQL, AngularJS, Flutter, ChatGPT API, Prompt Engineering, Caching, Kubernetes, Git, Agile/Scrum  
 
 **Research Internship** | Augmented Human Lab, University of Auckland, New Zealand (_Jan 2022 – June 2022_)  
 - Contributed to the R&D of a mobile application to support science learning for school students using Unity and Node.js.  
